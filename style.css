@@ -1,0 +1,7 @@
+
+p{font-size: x-large;}
+* {font-family: sans-serif;}
+.flex{display: flex; font-size:large; border: 10px black; padding: 10px;}
+.item{background-color: aqua; border: 2px black; max-width: 300px; max-height: 300px; text-align: center; }
+.foto{image-orientation: center;}
+body{background-image:linear-gradient(to bottom, rgb(255, 255, 255),rgb(102,232,255)) ; background-attachment: fixed;}
